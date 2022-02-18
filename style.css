@@ -12,7 +12,7 @@ h2{
     font-weight: bold;
     padding: 3rem;
 }
-.coming-soon{
+.container{
     min-height: 100vh;
     display: flex;
     align-items: center;
